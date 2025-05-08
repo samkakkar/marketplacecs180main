@@ -1,0 +1,15 @@
+package src;
+
+/**
+ * PHASE 3 PROJECT MARKETPLACE
+ *
+ * @author Samridhi
+ * @version 7/5/25
+ */
+public interface MarketplaceClientInterface {
+    // we couldn't implement the other method's
+    // interfaces because they are also private
+    // Handle authentication workflow
+    void initializeGUI();
+
+}
